@@ -26,6 +26,8 @@ pip install -r requirements.txt
 
 GOOGLE_API_KEY=TU_GOOGLE_API_KEY
 
+ ```
+
 ---
 
  🚀 Uso
