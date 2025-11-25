@@ -12,8 +12,8 @@
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/marceljg04/langchain_google_genai.git
+cd langchain_google_genai
 ```
 
 2. Crea un entorno virtual e instálalo:
