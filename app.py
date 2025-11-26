@@ -22,7 +22,7 @@ modelo = st.sidebar.selectbox(
     "Modelo a usar",
     [
         "gemini-2.5-flash",
-        "gemini-2.0-pro",
+        "gemini-2.5-pro",
     ]
 )
 
